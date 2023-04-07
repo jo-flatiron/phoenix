@@ -1,7 +1,12 @@
 export const cats = [
   {
     name: "Inky",
-    description: "Inky has been having seizures & diagnosed with FIP",
+    description: `Inky & her siblings were born in a box on an upper shelf in Lowe's &
+    found at just a few days old. The litter lived their first months of
+    life in a foster home with their mom so they could continue to
+    nurse. Once they were old enough they arrived to Catpurrccinos and
+    quickly became one of the most popular litter groups because of
+    their amazing personalities & their sweet bond.`,
     images: [
       "https://www.feraltofamily.com/uploads/b/f0d8703c746f8693f2c80b79b91f9dfb51cfd5f990158ab52d26e91549ad8068/IMG_7702_1680115437.jpg?width=800",
       "https://www.feraltofamily.com/uploads/b/f0d8703c746f8693f2c80b79b91f9dfb51cfd5f990158ab52d26e91549ad8068/IMG_8613__1__1680115511.jpg?width=400",
